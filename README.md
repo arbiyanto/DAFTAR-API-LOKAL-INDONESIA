@@ -28,7 +28,7 @@ Berisi API tentang Data Indonesia.
 
 ## Daftar API
 
-### *E-Commerce*https://github.com/arbiyanto/api_doc/
+### *E-Commerce*
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
