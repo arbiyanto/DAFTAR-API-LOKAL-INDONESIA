@@ -1,6 +1,6 @@
-# Daftar API Lokal Indonesia
+# Daftar API Lokal Indonesia forked from [farizdotid](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
 
-Berisi API tentang Data Indonesia.
+Berisi API yang ada di Indonesia. (Extended)
 
 # Daftar dalam bahasa lain
 
@@ -28,6 +28,11 @@ Berisi API tentang Data Indonesia.
 
 ## Daftar API
 
+### Chatbot
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Kata.ai | Kata.ai | [Link](https://kata.ai/)  | `Aktif` | Chatbot untuk berbagai kebutuhan bisnis, mulai dari layanan konsumen, transaksi jual-beli, hingga kampanye pemasaran interaktif. | `apiKey` |
+
 ### *E-Commerce*
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
@@ -45,6 +50,7 @@ Berisi API tentang Data Indonesia.
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 | iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 | Doku | Doku | [Link](http://doku.com/id/bisnis/documentation) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
+| Flip | Flip | [Link](https://docs.flip.id/) | `Aktif` | Transfer antar bank tanpa biaya. | `apiKey` |
 
 ### Forum
 
