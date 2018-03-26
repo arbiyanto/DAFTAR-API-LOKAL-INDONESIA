@@ -28,11 +28,11 @@ Berisi API tentang Data Indonesia.
 
 ## Daftar API
 
-### *E-Commerce*
+### *E-Commerce*https://github.com/arbiyanto/api_doc/
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Bukalapak | Bukalapak Dev | [Link](https://bukalapak.github.io/api/) | `Tidak Aktif` | API dari *e-commerce* terkenal di Indonesia sebagai situs jual-beli daring (*online*) | `apiKey` |
+| Bukalapak | Bukalapak Dev | [Link](https://api.bukalapak.com/v2/) Check Documentation in [api_doc](https://github.com/arbiyanto/api_doc)  | `Aktif` | API dari *e-commerce* terkenal di Indonesia sebagai situs jual-beli daring (*online*) | `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Aktif` | API untuk penjual di Matahari Mall | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Aktif` | API untuk transaksi pada tiket.com yang merupakan situs penjualan tiket kereta api, tiket pesawat, dan lain-lain. | `apiKey` |
 
@@ -44,6 +44,7 @@ Berisi API tentang Data Indonesia.
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Aktif` | API untuk *software* laporan keuangan. | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 | iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
+| Doku | Doku | [Link](http://doku.com/id/bisnis/documentation) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 
 ### Forum
 
